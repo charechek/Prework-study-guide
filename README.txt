@@ -1,4 +1,4 @@
-# <Your-Project-Title>
+# <PREWORK-STUDY-GUIDE>
 
 ## Description
 
@@ -17,6 +17,7 @@ N/A
 
 Use in web browser. Browse information for each section. For suggestions on what to study first, use Chrome Web Tools,
 by pressing command+option+I (macOS) or control+shift+I (Windows). A console panel should open on either below or on the side of the browser. You'll find there a topics learnt from the prework and a suggestion on what to study first.
+
 
 ## Credits
 
